@@ -1,0 +1,16 @@
+# Environment — NEVER commit this
+.env
+
+# ChromaDB vector store
+data/chroma/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
