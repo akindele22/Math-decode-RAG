@@ -1,5 +1,7 @@
 # Math & Quant AI
 
+<img src="AIMM.png" alt="Query Answers" />
+
 RAG-powered AI assistant for quantitative finance and mathematics.
 Supports four LLM providers — free local inference via Ollama out of the box.
 
