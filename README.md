@@ -11,8 +11,6 @@ Supports four LLM providers — free local inference via Ollama out of the box.
 |---|---|---|---|
 | **Ollama** (default) | Local development | Free | Install Ollama + pull a model |
 | **Gemini** | Production (fast + cheap) | Free tier available | Add `GEMINI_API_KEY` |
-| **Anthropic** | Cloud fallback | Paid | Add `ANTHROPIC_API_KEY` |
-| **OpenAI** | Cloud fallback | Paid | Add `OPENAI_API_KEY` |
 
 Switch providers by changing `LLM_PROVIDER` in your `.env` — no code changes needed.
 
